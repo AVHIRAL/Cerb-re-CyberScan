@@ -1,4 +1,4 @@
-# Cerb-re-CyberScan
+# Cerbere-CyberScan
 
 Ce programme riche en fonctionnalités, conçue pour la gestion, l'optimisation et la sécurisation des systèmes Windows et Linux. Il offre un large éventail de fonctionnalités, y compris mais sans s'y limiter, l'exécution de scripts de réparation, l'optimisation de Windows, la sécurisation contre les attaques Shellshock, l'audit de serveur et de système, la gestion de connexion SSH, et bien plus. Voici un résumé détaillé de ses fonctionnalités et instructions d'installation.
 Fonctionnalités Clés
